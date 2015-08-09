@@ -1,5 +1,9 @@
 .gradle
 build/
+.idea/
+run/
+
+*.iml
 
 # Ignore Gradle GUI config
 gradle-app.setting
